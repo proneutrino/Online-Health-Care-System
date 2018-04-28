@@ -16,4 +16,6 @@ Run the application
 
 python manage.py runserver
 
+![](image/image.png)
+
 Go to localhost:8000 and enjoy!
