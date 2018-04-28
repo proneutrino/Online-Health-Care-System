@@ -1,6 +1,7 @@
 # HealthCareSystem
 Clone the repository
 git clone https://github.com/proneutrino/Online-Health-Care-System/
+
 Install the requirements (In a virtual environment preferably)
 
 cd HealthCareSys
